@@ -1,66 +1,87 @@
-<!-- عنوان بزرگ با سلام و ایموجی -->
-<h1 align="center">Hi I'm Mahdi 👋</h1>
+<h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
 
 <p align="center">
-  💻 DevOps | 🐧 Linux Enthusiast | ☁️ Cloud & Automation Lover
+  💻 DevOps Enthusiast & Linux Lover <br/>
+  🚀 Learning Automation, Cloud, and CI/CD
 </p>
 
 ---
 
-### 👨‍💻 درباره‌ی من
+## 👨‍💻 About Me
 
-- 🔭 الان در حال کار روی: **[نام پروژه‌/ها]**
-- 🌱 این روزها در حال یادگیری: **Docker, Kubernetes, Ansible, CI/CD**
-- 💬 می‌تونی ازم بپرسی درباره‌ی: **Linux, Git, DevOps Tooling**
-- 📫 راه ارتباطی: **[email@example.com]**
-- ⚡ سرگرمی‌ها: **کتاب، موسیقی، لینوکس‌بازی 😄**
+- 🔭 Currently working on: **DevOps labs, automation scripts, and containerized apps**
+- 🌱 Currently learning: **Docker, Kubernetes, Ansible, GitHub Actions, Linux server administration**
+- 🧰 Daily tools: **Linux, WSL2, Git, VS Code, Docker**
+- 💬 Ask me about: **basic DevOps workflows, Linux, Git, scripting**
+- 📫 How to reach me: **your_email@example.com**
+- ⚡ Fun fact: I enjoy tweaking terminals, dotfiles, and making my dev environment look awesome 😄
 
 ---
 
-### 🛠 تکنولوژی‌ها و ابزارها
+## 🛠 Tech Stack & Tools
 
-#### 🧩 Backend / Scripting
+### Languages & Scripting
 `Python` `Bash` `PowerShell`
 
-#### 🧱 DevOps / Infra
-`Docker` `Docker Compose` `Kubernetes` `Ansible` `Terraform` `GitHub Actions`
+### DevOps & Infrastructure
+`Git` `GitHub` `Docker` `Docker Compose` `Ansible` `CI/CD` `GitHub Actions`
 
-#### ☁️ Cloud & OS
-`Linux (Ubuntu)` `WSL2` `Windows Server`
-
----
-
-### 📌 پروژه‌های شاخص
-
-🔹 [نام پروژه 1](لینک-ریپو) — توضیح یک خطی پروژه  
-🔹 [نام پروژه 2](لینک-ریپو) — توضیح یک خطی پروژه  
-🔹 [نام پروژه 3](لینک-ریپو) — توضیح یک خطی پروژه  
-
-> پیشنهاد: روی پروژه‌هایی تمرکز کن که DevOps بودن‌ت رو نشون می‌دن  
-> مثل: CI/CD Pipeline، Infrastructure-as-Code، مانیتورینگ، لاگینگ و…
+### OS & Environment
+`Linux (Ubuntu)` `WSL2` `Windows 11`
 
 ---
 
-### 📊 آمار GitHub
+## 📌 Featured Projects
+
+Here are some projects that reflect my DevOps journey:
+
+- 🔹 [PROJECT 1 NAME](https://github.com/USERNAME/REPO1) – Brief one-line description (e.g. *Dockerized multi-tier app with Nginx and MySQL*).
+- 🔹 [PROJECT 2 NAME](https://github.com/USERNAME/REPO2) – Brief one-line description (e.g. *Ansible playbooks to configure a web server*).
+- 🔹 [PROJECT 3 NAME](https://github.com/USERNAME/REPO3) – Brief one-line description (e.g. *CI/CD pipeline using GitHub Actions*).
+
+> Tip: Pin these repos on your GitHub profile so they appear in the **Pinned** section.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" 
+    alt="GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" alt="GitHub streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" 
+    alt="GitHub streak" 
+  />
 </p>
 
 ---
 
-### 🔗 لینک‌های من
+## 🧩 Badges
 
-- 🌐 وب‌سایت / بلاگ: [your-site.com](https://your-site.com)
-- 💼 لینکدین: [Your Name](https://www.linkedin.com/in/USERNAME)
-- 🧾 رزومه: لینک به PDF رزومه (در یک ریپو یا وب‌سایت)
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-informational" />
+  <img src="https://img.shields.io/badge/Env-WSL2-blue" />
+  <img src="https://img.shields.io/badge/Tools-Docker-blueviolet" />
+  <img src="https://img.shields.io/badge/Tools-Ansible-success" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC" />
+</p>
 
 ---
 
-### 🙌 تشکر که سر زدی
+## 🔗 Connect with Me
 
-اگر چیزی برات مفید بود، یه ⭐ روی ریپوها خیلی خوشحالم می‌کنه 😄
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- 🌐 Website / Blog: [your-site.com](https://your-site.com) *(optional)*
+- 📄 Resume: Link to your resume (PDF or website)
+
+---
+
+## 🙌 Thanks for Visiting
+
+If you find any of my projects useful or interesting, consider giving them a ⭐  
+It really motivates me to keep building and learning!
