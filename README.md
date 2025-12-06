@@ -65,14 +65,3 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 - 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/))
 - 📫 Email: **solaris.dev64@gmail.com**
 
----
-
-## 🙌 Learning in Public
-
-I'm using this GitHub profile to:
-
-- document what I’m learning  
-- keep track of my labs and experiments  
-- show my progress over time  
-
-If you have any advice, resources, or feedback, I’d love to hear it 🙂
