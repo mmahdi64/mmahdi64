@@ -31,7 +31,6 @@ Right now I'm exploring how to design and automate modern infrastructure, especi
 ### Scripting & Languages
 `Bash` `Python` `PowerShell (basic level)`  
 
-> ⚠️ I'm still learning — many of my repos are experiments, notes, and practice projects.
 
 ---
 
