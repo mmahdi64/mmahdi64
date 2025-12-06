@@ -19,18 +19,45 @@ Right now I'm exploring how to design and automate modern infrastructure, especi
 - 🎯 Goal: Build a strong foundation so I can design, automate, and secure infrastructure in a professional environment
 
 ---
+## 🛠 Tech & Tools (Icons)
 
-## 🛠 Tech & Topics I'm Exploring
+### Operating Systems & Environment
 
-### Core Topics
-`Infrastructure as Code (IaC)` `Infrastructure Automation` `Remote Work Infrastructure` `Zero Trust (concepts)`  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 11" width="40" height="40" />
+</p>
 
-### Tools & Ecosystem
-`Linux (Ubuntu)` `Git` `GitHub` `WSL2` `Containers`  
+### Version Control & Hosting
 
-### Scripting & Languages
-`Bash` `Python` `PowerShell (basic level)`  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
 
+### Editors & Terminal
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+</p>
+
+### Languages & Scripting
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+</p>
+
+### Containers & Automation (as I learn them)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" /> -->
+  -->
+</p>
 
 ---
 
@@ -49,6 +76,7 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 > As I learn more, I’ll keep improving these projects, refactoring the code, and documenting my progress.
 
+---
 
 <!-- ## 📊 GitHub Activity
 
@@ -75,7 +103,7 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/))
+- 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/)) *(optional)*
 - 📫 Email: **solaris.dev64@gmail.com**
 
 ---
