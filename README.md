@@ -52,14 +52,14 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 ---
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" 
     alt="GitHub stats" 
   />
-</p>
+</p> -->
 
 ---
 
@@ -77,8 +77,8 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN/) *(optional)*
-- 📫 Email: **your_email@example.com** *(optional)*
+- 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/)) *(optional)*
+- 📫 Email: **solaris.dev64@gmail.com**
 
 ---
 
