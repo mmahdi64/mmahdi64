@@ -1,60 +1,58 @@
-<h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi there, I'm Mahdi 👋</h1>
 
 <p align="center">
-  💻 DevOps & Infrastructure Automation <br/>
-  🔐 Building Secure, Zero Trust Remote Work Environments
+  💻 DevOps & Infrastructure Enthusiast <br/>
+  🔍 Currently focused on learning, experimenting, and building labs
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **infrastructure automation, Infrastructure as Code (IaC), and secure remote work environments based on the Zero Trust model**
-- 🌱 Currently learning: **advanced networking for remote access, security best practices, Infrastructure as Code patterns, and CI/CD for infrastructure**
-- 🧰 Daily tools: **Linux, Git, VS Code, containers, and automation tooling**
-- 💬 Ask me about: **basic DevOps workflows, infrastructure automation, IaC concepts, and secure remote access environments**
-- 📫 How to reach me: **your_email@example.com**
-- ⚡ Fun fact: I enjoy tweaking terminals, dotfiles, and turning manual tasks into automated pipelines 😄
+I'm at the **learning and research stage** of my DevOps and infrastructure journey.  
+Right now I'm exploring how to design and automate modern infrastructure, especially for **remote work** and **secure environments**.
+
+- 🌱 Currently learning: **Infrastructure as Code (IaC), infrastructure automation, Zero Trust concepts, and secure remote access**
+- 🧪 Mostly working on: **labs, experiments, and small projects** to understand real-world scenarios
+- 🧰 Tools I’m exploring: **Linux, Git, VS Code, containers, automation tooling**
+- 💬 Things I’m interested in: **DevOps fundamentals, infrastructure design, security for remote work**
+- 🎯 Goal: Build a strong foundation so I can design, automate, and secure infrastructure in a professional environment
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech & Topics I'm Exploring
 
-### Infrastructure & Automation
-`Infrastructure as Code (IaC)` `Infrastructure Automation` `CI/CD for Infra` `GitOps`
+### Core Topics
+`Infrastructure as Code (IaC)` `Infrastructure Automation` `Remote Work Infrastructure` `Zero Trust (concepts)`  
 
-### DevOps & Tooling
-`Git` `GitHub` `Containers` `Shell Scripting` `Linux Server Administration`
+### Tools & Ecosystem
+`Linux (Ubuntu)` `Git` `GitHub` `WSL2` `Containers`  
 
-### Security & Remote Work
-`Zero Trust Concepts` `Remote Work Environments` `Secure Access` `VPN / Tunneling Basics`
+### Scripting & Languages
+`Bash` `Python` `PowerShell (basic level)`  
 
-### Languages & Scripting
-`Python` `Bash` `PowerShell`
-
-### OS & Environment
-`Linux (Ubuntu)` `WSL2` `Windows 11`
+> ⚠️ I'm still learning — many of my repos are experiments, notes, and practice projects.
 
 ---
 
-## 📌 Featured Projects
+## 📘 Learning & Lab Projects
 
-Here are some projects that reflect my current focus:
+Most of my repositories are **labs, notes, and small experiments**. Examples of the kind of things I'm working on:
 
-- 🔹 **Remote Work Zero Trust Lab**  
-  A lab environment to experiment with secure remote access, identity-based access control, and Zero Trust principles for a remote workforce.
+- 🔹 **Infrastructure Learning Lab**  
+  Practice environment for testing ideas around infrastructure, automation, and configuration.
 
-- 🔹 **Infrastructure as Code for Remote Environments**  
-  Templates and configurations (IaC) to provision and manage the infrastructure required for remote work setups in a repeatable and automated way.
+- 🔹 **Remote Work / Zero Trust Notes & Experiments**  
+  Notes, diagrams, and small setups to understand how secure remote access and Zero Trust concepts work in practice.
 
-- 🔹 **Infrastructure Automation Toolkit**  
-  A collection of scripts and automation logic to bootstrap, configure, and update infrastructure components with minimal manual intervention.
+- 🔹 **Automation Practice**  
+  Scripts and small tools to reduce manual work and better understand automation patterns.
 
-> Tip: Replace these project descriptions with your real repositories, and pin those repos on your GitHub profile so they appear in the **Pinned** section.
+> As I learn more, I’ll keep improving these projects, refactoring the code, and documenting my progress.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img 
@@ -63,36 +61,33 @@ Here are some projects that reflect my current focus:
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" 
-    alt="GitHub streak" 
-  />
-</p>
-
 ---
 
-## 🧩 Badges
+## 🧩 Badges (What I'm Focused On)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Area-DevOps-informational" />
+  <img src="https://img.shields.io/badge/Stage-Learning%20%26%20Research-informational" />
   <img src="https://img.shields.io/badge/Focus-Infrastructure%20Automation-blue" />
   <img src="https://img.shields.io/badge/Concepts-Zero%20Trust-orange" />
-  <img src="https://img.shields.io/badge/Methodology-IaC-success" />
   <img src="https://img.shields.io/badge/OS-Linux-important" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 🌐 Website / Blog: [your-site.com](https://your-site.com) *(optional)*
-- 📄 Resume: Link to your resume (PDF or website)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN/) *(optional)*
+- 📫 Email: **your_email@example.com** *(optional)*
 
 ---
 
-## 🙌 Thanks for Visiting
+## 🙌 Learning in Public
 
-If you find any of my projects useful or interesting, consider giving them a ⭐  
-It really motivates me to keep building, learning, and sharing!
+I'm using this GitHub profile to:
+
+- document what I’m learning  
+- keep track of my labs and experiments  
+- show my progress over time  
+
+If you have any advice, resources, or feedback, I’d love to hear it 🙂
