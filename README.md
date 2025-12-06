@@ -1,30 +1,36 @@
 <h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
 
 <p align="center">
-  💻 DevOps Enthusiast & Linux Lover <br/>
-  🚀 Learning Automation, Cloud, and CI/CD
+  💻 DevOps & Infrastructure Automation <br/>
+  🔐 Building Secure, Zero Trust Remote Work Environments
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **DevOps labs, automation scripts, and containerized apps**
-- 🌱 Currently learning: **Docker, Kubernetes, Ansible, GitHub Actions, Linux server administration**
-- 🧰 Daily tools: **Linux, WSL2, Git, VS Code, Docker**
-- 💬 Ask me about: **basic DevOps workflows, Linux, Git, scripting**
+- 🔭 Currently working on: **infrastructure automation, Infrastructure as Code (IaC), and secure remote work environments based on the Zero Trust model**
+- 🌱 Currently learning: **advanced networking for remote access, security best practices, Infrastructure as Code patterns, and CI/CD for infrastructure**
+- 🧰 Daily tools: **Linux, Git, VS Code, containers, and automation tooling**
+- 💬 Ask me about: **basic DevOps workflows, infrastructure automation, IaC concepts, and secure remote access environments**
 - 📫 How to reach me: **your_email@example.com**
-- ⚡ Fun fact: I enjoy tweaking terminals, dotfiles, and making my dev environment look awesome 😄
+- ⚡ Fun fact: I enjoy tweaking terminals, dotfiles, and turning manual tasks into automated pipelines 😄
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
+### Infrastructure & Automation
+`Infrastructure as Code (IaC)` `Infrastructure Automation` `CI/CD for Infra` `GitOps`
+
+### DevOps & Tooling
+`Git` `GitHub` `Containers` `Shell Scripting` `Linux Server Administration`
+
+### Security & Remote Work
+`Zero Trust Concepts` `Remote Work Environments` `Secure Access` `VPN / Tunneling Basics`
+
 ### Languages & Scripting
 `Python` `Bash` `PowerShell`
-
-### DevOps & Infrastructure
-`Git` `GitHub` `Docker` `Docker Compose` `Ansible` `CI/CD` `GitHub Actions`
 
 ### OS & Environment
 `Linux (Ubuntu)` `WSL2` `Windows 11`
@@ -33,13 +39,18 @@
 
 ## 📌 Featured Projects
 
-Here are some projects that reflect my DevOps journey:
+Here are some projects that reflect my current focus:
 
-- 🔹 [PROJECT 1 NAME](https://github.com/USERNAME/REPO1) – Brief one-line description (e.g. *Dockerized multi-tier app with Nginx and MySQL*).
-- 🔹 [PROJECT 2 NAME](https://github.com/USERNAME/REPO2) – Brief one-line description (e.g. *Ansible playbooks to configure a web server*).
-- 🔹 [PROJECT 3 NAME](https://github.com/USERNAME/REPO3) – Brief one-line description (e.g. *CI/CD pipeline using GitHub Actions*).
+- 🔹 **Remote Work Zero Trust Lab**  
+  A lab environment to experiment with secure remote access, identity-based access control, and Zero Trust principles for a remote workforce.
 
-> Tip: Pin these repos on your GitHub profile so they appear in the **Pinned** section.
+- 🔹 **Infrastructure as Code for Remote Environments**  
+  Templates and configurations (IaC) to provision and manage the infrastructure required for remote work setups in a repeatable and automated way.
+
+- 🔹 **Infrastructure Automation Toolkit**  
+  A collection of scripts and automation logic to bootstrap, configure, and update infrastructure components with minimal manual intervention.
+
+> Tip: Replace these project descriptions with your real repositories, and pin those repos on your GitHub profile so they appear in the **Pinned** section.
 
 ---
 
@@ -64,11 +75,11 @@ Here are some projects that reflect my DevOps journey:
 ## 🧩 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational" />
-  <img src="https://img.shields.io/badge/Env-WSL2-blue" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blueviolet" />
-  <img src="https://img.shields.io/badge/Tools-Ansible-success" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC" />
+  <img src="https://img.shields.io/badge/Area-DevOps-informational" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure%20Automation-blue" />
+  <img src="https://img.shields.io/badge/Concepts-Zero%20Trust-orange" />
+  <img src="https://img.shields.io/badge/Methodology-IaC-success" />
+  <img src="https://img.shields.io/badge/OS-Linux-important" />
 </p>
 
 ---
@@ -84,4 +95,4 @@ Here are some projects that reflect my DevOps journey:
 ## 🙌 Thanks for Visiting
 
 If you find any of my projects useful or interesting, consider giving them a ⭐  
-It really motivates me to keep building and learning!
+It really motivates me to keep building, learning, and sharing!
