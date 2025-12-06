@@ -77,7 +77,7 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/)) *(optional)*
+- 💼 LinkedIn: [Mahdi]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/))
 - 📫 Email: **solaris.dev64@gmail.com**
 
 ---
