@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mmahdi64/mmahdi64/refs/heads/main/solaris.dev.banner.png" width="100%" />
 </p>
----
 
 <h1 align="center">Hi there, I'm Mahdi 👋</h1>
 
