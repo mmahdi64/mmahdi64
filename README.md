@@ -30,7 +30,6 @@ Right now I'm exploring how to design and automate modern infrastructure, especi
 ### Scripting & Languages
 `Bash` `Python` `PowerShell (basic level)`  
 
-> ⚠️ I'm still learning — many of my repos are experiments, notes, and practice projects.
 
 ---
 
@@ -49,7 +48,6 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 > As I learn more, I’ll keep improving these projects, refactoring the code, and documenting my progress.
 
----
 
 <!-- ## 📊 GitHub Activity
 
@@ -59,18 +57,6 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
     alt="GitHub stats" 
   />
 </p> -->
-
----
-
-## 🧩 Badges (What I'm Focused On)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stage-Learning%20%26%20Research-informational" />
-  <img src="https://img.shields.io/badge/Focus-Infrastructure%20Automation-blue" />
-  <img src="https://img.shields.io/badge/Concepts-Zero%20Trust-orange" />
-  <img src="https://img.shields.io/badge/OS-Linux-important" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC" />
-</p>
 
 ---
 
