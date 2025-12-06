@@ -49,7 +49,6 @@ Most of my repositories are **labs, notes, and small experiments**. Examples of 
 
 > As I learn more, I’ll keep improving these projects, refactoring the code, and documenting my progress.
 
----
 
 <!-- ## 📊 GitHub Activity
 
